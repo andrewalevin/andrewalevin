@@ -6,6 +6,10 @@ Homepag
 
 [https://andrewalevin.github.io/](https://andrewalevin.github.io/)
 
+
+
+[👨‍💻 Best Code Practices](https://github.com/andrewalevin/best-code-practices)
+
 <!--
 **andrewalevin/andrewalevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
