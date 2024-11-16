@@ -8,7 +8,7 @@ Homepag
 
 
 
-[👨‍💻 Best Code Practices](https://github.com/andrewalevin/best-code-practices)
+- [👨‍💻 Best Code Practices](https://github.com/andrewalevin/best-code-practices)
 
 <!--
 **andrewalevin/andrewalevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
