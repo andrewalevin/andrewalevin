@@ -11,7 +11,7 @@ Homepag
 
 - [🗺️ Maps](https://github.com/andrewalevin/maps)
 
-- [🌳 Zvenigorod](https://andrewalevin.github.io/zvenigorod/) (https://github.com/andrewalevin/zvenigorod)
+- [🌳 Звенигород. Исторические поиски](https://andrewalevin.github.io/zvenigorod/) (https://github.com/andrewalevin/zvenigorod)
 
 
 
