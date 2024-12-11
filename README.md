@@ -15,4 +15,5 @@ Homepag
 
 - [🏰 Cultural Trips](https://andrewalevin.github.io/cultural-trips/) (https://github.com/andrewalevin/cultural-trips)
 
+- [PYPI andrewlevin https://pypi.org/user/andrewlevin/](https://pypi.org/user/andrewlevin/)
 
